@@ -1,0 +1,8 @@
+2018-05-30T16:13:19+00:00 CRITICAL Uncaught Error: Call to undefined function twentyseventeen_get_svg() in /home/wan2-3/sites/Integration/wordpress/wp-content/themes/mindgeek/index.php:31
+Stack trace:
+#0 /home/wan2-3/sites/Integration/wordpress/wp-includes/template-loader.php(74): include()
+#1 /home/wan2-3/sites/Integration/wordpress/wp-blog-header.php(19): require_once('/home/wan2-3/si...')
+#2 /home/wan2-3/sites/Integration/wordpress/index.php(17): require('/home/wan2-3/si...')
+#3 {main}
+  thrown
+
